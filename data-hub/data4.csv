@@ -1,0 +1,401 @@
+Application ID,Name,Email,Cohort,Submission Date
+APP7126,User483,User483@example.com,Data Science 101,2024-11-24
+APP7883,User995,User995@example.com,Python Basics,2024-11-09
+APP3731,User848,User848@example.com,Data Science 101,2024-11-11
+APP9038,User778,User778@example.com,Python Basics,2024-11-11
+APP1111,User591,User591@example.com,Python Basics,2024-11-10
+APP8500,User592,User592@example.com,Python Basics,2024-11-10
+APP7277,User746,User746@example.com,Python Basics,2024-11-10
+APP8441,User622,User622@example.com,Python Basics,2024-10-26
+APP5445,User279,User279@example.com,AI Bootcamp,2024-11-23
+APP8429,User341,User341@example.com,Python Basics,2024-10-30
+APP8212,User900,User900@example.com,Python Basics,2024-11-21
+APP4498,User348,User348@example.com,Data Science 101,2024-11-19
+APP1846,User611,User611@example.com,Python Basics,2024-11-17
+APP9941,User575,User575@example.com,AI Bootcamp,2024-11-23
+APP5155,User239,User239@example.com,Data Science 101,2024-11-04
+APP2876,User641,User641@example.com,AI Bootcamp,2024-10-28
+APP9422,User146,User146@example.com,Data Science 101,2024-11-03
+APP6155,User981,User981@example.com,Python Basics,2024-11-17
+APP2896,User274,User274@example.com,Python Basics,2024-11-21
+APP8037,User972,User972@example.com,AI Bootcamp,2024-11-20
+APP5795,User562,User562@example.com,AI Bootcamp,2024-11-03
+APP8228,User896,User896@example.com,Python Basics,2024-11-03
+APP8417,User447,User447@example.com,Python Basics,2024-11-07
+APP8773,User734,User734@example.com,Python Basics,2024-10-28
+APP7707,User337,User337@example.com,Python Basics,2024-11-07
+APP4319,User114,User114@example.com,Data Science 101,2024-10-28
+APP5997,User528,User528@example.com,Python Basics,2024-11-23
+APP8852,User427,User427@example.com,Python Basics,2024-10-30
+APP7378,User725,User725@example.com,Data Science 101,2024-10-26
+APP6229,User395,User395@example.com,AI Bootcamp,2024-11-17
+APP2720,User902,User902@example.com,Data Science 101,2024-11-05
+APP6149,User785,User785@example.com,Python Basics,2024-11-18
+APP9234,User917,User917@example.com,Python Basics,2024-11-18
+APP4714,User734,User734@example.com,Python Basics,2024-11-20
+APP5369,User202,User202@example.com,Data Science 101,2024-11-23
+APP9325,User682,User682@example.com,Python Basics,2024-11-07
+APP3422,User812,User812@example.com,AI Bootcamp,2024-11-22
+APP4506,User378,User378@example.com,Python Basics,2024-11-22
+APP4092,User370,User370@example.com,Data Science 101,2024-11-15
+APP9993,User964,User964@example.com,AI Bootcamp,2024-11-16
+APP6136,User451,User451@example.com,AI Bootcamp,2024-11-04
+APP7530,User996,User996@example.com,AI Bootcamp,2024-11-02
+APP8672,User704,User704@example.com,Python Basics,2024-11-02
+APP9428,User770,User770@example.com,AI Bootcamp,2024-11-06
+APP1803,User785,User785@example.com,Python Basics,2024-10-28
+APP5547,User316,User316@example.com,Python Basics,2024-10-27
+APP6808,User484,User484@example.com,Data Science 101,2024-11-10
+APP9432,User403,User403@example.com,Python Basics,2024-11-17
+APP8181,User984,User984@example.com,Data Science 101,2024-10-29
+APP4435,User236,User236@example.com,AI Bootcamp,2024-11-24
+APP7447,User619,User619@example.com,Data Science 101,2024-11-22
+APP8471,User728,User728@example.com,Data Science 101,2024-11-17
+APP5926,User749,User749@example.com,Python Basics,2024-11-18
+APP8073,User141,User141@example.com,Data Science 101,2024-11-22
+APP2350,User678,User678@example.com,Python Basics,2024-11-13
+APP3056,User615,User615@example.com,Data Science 101,2024-11-07
+APP9620,User934,User934@example.com,Python Basics,2024-11-20
+APP4835,User816,User816@example.com,Python Basics,2024-11-03
+APP3850,User166,User166@example.com,AI Bootcamp,2024-11-06
+APP7627,User740,User740@example.com,Python Basics,2024-11-05
+APP3715,User184,User184@example.com,Python Basics,2024-11-20
+APP5481,User688,User688@example.com,Python Basics,2024-11-02
+APP1303,User537,User537@example.com,AI Bootcamp,2024-11-15
+APP8961,User824,User824@example.com,AI Bootcamp,2024-11-24
+APP1469,User986,User986@example.com,Data Science 101,2024-11-17
+APP8639,User884,User884@example.com,Data Science 101,2024-11-07
+APP9073,User938,User938@example.com,Python Basics,2024-11-13
+APP4364,User780,User780@example.com,Python Basics,2024-11-23
+APP2605,User179,User179@example.com,AI Bootcamp,2024-11-21
+APP7328,User632,User632@example.com,AI Bootcamp,2024-11-06
+APP4999,User161,User161@example.com,Python Basics,2024-11-01
+APP3892,User714,User714@example.com,Data Science 101,2024-11-16
+APP3218,User870,User870@example.com,Python Basics,2024-11-22
+APP8272,User620,User620@example.com,Python Basics,2024-11-16
+APP1859,User302,User302@example.com,AI Bootcamp,2024-11-20
+APP8255,User193,User193@example.com,AI Bootcamp,2024-11-11
+APP3267,User690,User690@example.com,AI Bootcamp,2024-11-13
+APP4356,User901,User901@example.com,AI Bootcamp,2024-11-11
+APP9280,User842,User842@example.com,Data Science 101,2024-11-24
+APP5047,User719,User719@example.com,Python Basics,2024-11-18
+APP6862,User505,User505@example.com,Data Science 101,2024-11-16
+APP1696,User659,User659@example.com,AI Bootcamp,2024-11-24
+APP6235,User611,User611@example.com,Python Basics,2024-10-27
+APP7479,User126,User126@example.com,Python Basics,2024-11-05
+APP5559,User859,User859@example.com,Data Science 101,2024-11-18
+APP8113,User115,User115@example.com,Data Science 101,2024-10-31
+APP9746,User296,User296@example.com,Data Science 101,2024-11-04
+APP6386,User955,User955@example.com,Data Science 101,2024-11-07
+APP3046,User973,User973@example.com,Python Basics,2024-11-07
+APP3181,User910,User910@example.com,Data Science 101,2024-11-10
+APP7640,User138,User138@example.com,Data Science 101,2024-11-09
+APP5267,User123,User123@example.com,AI Bootcamp,2024-11-12
+APP1814,User101,User101@example.com,AI Bootcamp,2024-11-13
+APP1670,User152,User152@example.com,AI Bootcamp,2024-11-12
+APP4529,User877,User877@example.com,Python Basics,2024-11-07
+APP4969,User890,User890@example.com,Data Science 101,2024-11-17
+APP6977,User760,User760@example.com,Data Science 101,2024-11-10
+APP7203,User497,User497@example.com,AI Bootcamp,2024-11-13
+APP6436,User977,User977@example.com,Python Basics,2024-11-06
+APP3393,User215,User215@example.com,AI Bootcamp,2024-11-09
+APP2908,User592,User592@example.com,Data Science 101,2024-11-08
+APP4459,User493,User493@example.com,AI Bootcamp,2024-11-16
+APP2017,User997,User997@example.com,Python Basics,2024-11-17
+APP2126,User472,User472@example.com,Data Science 101,2024-11-17
+APP4089,User633,User633@example.com,Data Science 101,2024-10-28
+APP1942,User459,User459@example.com,Python Basics,2024-11-01
+APP6368,User914,User914@example.com,Python Basics,2024-11-08
+APP4405,User831,User831@example.com,Python Basics,2024-10-26
+APP9979,User968,User968@example.com,AI Bootcamp,2024-11-02
+APP8231,User519,User519@example.com,AI Bootcamp,2024-11-04
+APP1530,User146,User146@example.com,Data Science 101,2024-11-08
+APP3202,User617,User617@example.com,AI Bootcamp,2024-11-16
+APP2871,User946,User946@example.com,Python Basics,2024-10-26
+APP2124,User970,User970@example.com,AI Bootcamp,2024-11-02
+APP4399,User629,User629@example.com,Python Basics,2024-11-06
+APP4615,User561,User561@example.com,Python Basics,2024-11-05
+APP7766,User754,User754@example.com,Python Basics,2024-11-02
+APP9020,User134,User134@example.com,AI Bootcamp,2024-11-16
+APP6530,User893,User893@example.com,AI Bootcamp,2024-11-16
+APP2962,User734,User734@example.com,Data Science 101,2024-11-21
+APP4313,User557,User557@example.com,AI Bootcamp,2024-11-07
+APP7228,User688,User688@example.com,Python Basics,2024-11-04
+APP8580,User694,User694@example.com,Python Basics,2024-10-30
+APP3744,User799,User799@example.com,Data Science 101,2024-11-05
+APP2014,User948,User948@example.com,Python Basics,2024-11-24
+APP4846,User642,User642@example.com,Python Basics,2024-11-09
+APP4313,User546,User546@example.com,AI Bootcamp,2024-11-23
+APP4210,User182,User182@example.com,AI Bootcamp,2024-11-21
+APP2918,User607,User607@example.com,Python Basics,2024-11-04
+APP1094,User290,User290@example.com,Python Basics,2024-11-10
+APP7564,User915,User915@example.com,AI Bootcamp,2024-10-30
+APP8149,User939,User939@example.com,Data Science 101,2024-11-13
+APP2648,User663,User663@example.com,Python Basics,2024-11-08
+APP8425,User234,User234@example.com,Data Science 101,2024-11-18
+APP6617,User347,User347@example.com,Python Basics,2024-11-22
+APP9545,User816,User816@example.com,Python Basics,2024-11-21
+APP8674,User175,User175@example.com,Data Science 101,2024-11-22
+APP3294,User295,User295@example.com,Data Science 101,2024-11-14
+APP9024,User882,User882@example.com,Data Science 101,2024-11-05
+APP4467,User796,User796@example.com,AI Bootcamp,2024-11-17
+APP1744,User453,User453@example.com,AI Bootcamp,2024-11-23
+APP2316,User147,User147@example.com,Python Basics,2024-11-09
+APP5772,User817,User817@example.com,AI Bootcamp,2024-11-12
+APP9487,User526,User526@example.com,AI Bootcamp,2024-11-07
+APP8958,User995,User995@example.com,Data Science 101,2024-10-27
+APP3091,User982,User982@example.com,AI Bootcamp,2024-11-15
+APP1244,User885,User885@example.com,Data Science 101,2024-11-17
+APP5282,User989,User989@example.com,AI Bootcamp,2024-10-26
+APP3683,User379,User379@example.com,Data Science 101,2024-10-28
+APP4762,User521,User521@example.com,Python Basics,2024-11-24
+APP8066,User889,User889@example.com,Data Science 101,2024-11-05
+APP5850,User152,User152@example.com,AI Bootcamp,2024-10-28
+APP5864,User130,User130@example.com,Data Science 101,2024-11-10
+APP5662,User269,User269@example.com,Data Science 101,2024-11-22
+APP5905,User356,User356@example.com,AI Bootcamp,2024-11-08
+APP3331,User932,User932@example.com,AI Bootcamp,2024-10-26
+APP5903,User143,User143@example.com,Data Science 101,2024-11-01
+APP6823,User843,User843@example.com,Python Basics,2024-11-24
+APP7214,User559,User559@example.com,Python Basics,2024-11-02
+APP5339,User460,User460@example.com,AI Bootcamp,2024-11-14
+APP3547,User558,User558@example.com,Data Science 101,2024-11-05
+APP4131,User476,User476@example.com,Python Basics,2024-10-30
+APP4388,User530,User530@example.com,Data Science 101,2024-11-08
+APP5976,User799,User799@example.com,Python Basics,2024-11-21
+APP3203,User615,User615@example.com,Python Basics,2024-11-21
+APP4214,User695,User695@example.com,Python Basics,2024-11-15
+APP8037,User233,User233@example.com,AI Bootcamp,2024-11-22
+APP9201,User321,User321@example.com,AI Bootcamp,2024-11-20
+APP9934,User301,User301@example.com,Data Science 101,2024-10-26
+APP3488,User899,User899@example.com,Python Basics,2024-11-13
+APP9924,User247,User247@example.com,AI Bootcamp,2024-11-21
+APP6131,User542,User542@example.com,Data Science 101,2024-10-30
+APP7878,User825,User825@example.com,AI Bootcamp,2024-11-17
+APP7748,User907,User907@example.com,AI Bootcamp,2024-11-12
+APP7918,User908,User908@example.com,Data Science 101,2024-11-02
+APP4721,User984,User984@example.com,AI Bootcamp,2024-10-27
+APP1690,User982,User982@example.com,Python Basics,2024-10-30
+APP3322,User786,User786@example.com,Python Basics,2024-11-21
+APP8841,User708,User708@example.com,AI Bootcamp,2024-11-07
+APP9924,User108,User108@example.com,Data Science 101,2024-11-17
+APP1589,User914,User914@example.com,Python Basics,2024-11-01
+APP1146,User147,User147@example.com,Python Basics,2024-11-22
+APP8608,User212,User212@example.com,Data Science 101,2024-11-24
+APP6151,User181,User181@example.com,Python Basics,2024-11-19
+APP3758,User947,User947@example.com,Data Science 101,2024-11-04
+APP4829,User115,User115@example.com,Data Science 101,2024-11-19
+APP5536,User340,User340@example.com,Data Science 101,2024-11-13
+APP1682,User592,User592@example.com,AI Bootcamp,2024-11-23
+APP6490,User551,User551@example.com,Data Science 101,2024-11-14
+APP8458,User736,User736@example.com,Python Basics,2024-11-18
+APP5194,User434,User434@example.com,Data Science 101,2024-11-23
+APP5981,User483,User483@example.com,Data Science 101,2024-11-15
+APP6831,User402,User402@example.com,Data Science 101,2024-11-02
+APP7329,User797,User797@example.com,AI Bootcamp,2024-11-01
+APP3654,User337,User337@example.com,Python Basics,2024-10-30
+APP5150,User641,User641@example.com,Python Basics,2024-10-27
+APP9402,User356,User356@example.com,AI Bootcamp,2024-11-19
+APP1883,User417,User417@example.com,Python Basics,2024-11-17
+APP7481,User609,User609@example.com,Data Science 101,2024-11-09
+APP2690,User913,User913@example.com,Python Basics,2024-10-26
+APP7190,User860,User860@example.com,Data Science 101,2024-11-16
+APP1980,User638,User638@example.com,Python Basics,2024-10-27
+APP7642,User625,User625@example.com,Data Science 101,2024-10-28
+APP8852,User674,User674@example.com,Python Basics,2024-11-22
+APP6810,User958,User958@example.com,Data Science 101,2024-10-29
+APP2814,User397,User397@example.com,Data Science 101,2024-11-10
+APP1621,User945,User945@example.com,Python Basics,2024-11-07
+APP2142,User582,User582@example.com,Data Science 101,2024-10-29
+APP5007,User577,User577@example.com,Python Basics,2024-11-19
+APP7133,User663,User663@example.com,Data Science 101,2024-11-01
+APP1197,User739,User739@example.com,Python Basics,2024-11-19
+APP9359,User840,User840@example.com,Python Basics,2024-11-12
+APP5933,User884,User884@example.com,AI Bootcamp,2024-11-03
+APP2865,User984,User984@example.com,AI Bootcamp,2024-11-23
+APP1909,User995,User995@example.com,AI Bootcamp,2024-10-29
+APP1550,User767,User767@example.com,AI Bootcamp,2024-11-22
+APP1133,User672,User672@example.com,AI Bootcamp,2024-11-24
+APP9430,User656,User656@example.com,Python Basics,2024-11-13
+APP1343,User560,User560@example.com,AI Bootcamp,2024-11-18
+APP8540,User777,User777@example.com,Python Basics,2024-11-13
+APP4605,User592,User592@example.com,AI Bootcamp,2024-11-24
+APP7599,User683,User683@example.com,AI Bootcamp,2024-11-19
+APP4385,User591,User591@example.com,AI Bootcamp,2024-11-14
+APP5936,User478,User478@example.com,AI Bootcamp,2024-11-13
+APP8141,User492,User492@example.com,Python Basics,2024-11-09
+APP3212,User879,User879@example.com,Python Basics,2024-11-08
+APP4311,User856,User856@example.com,Data Science 101,2024-11-11
+APP3653,User327,User327@example.com,Python Basics,2024-11-15
+APP6977,User576,User576@example.com,Python Basics,2024-10-29
+APP9793,User901,User901@example.com,Python Basics,2024-11-15
+APP3059,User159,User159@example.com,Data Science 101,2024-10-26
+APP1716,User349,User349@example.com,Data Science 101,2024-11-18
+APP2697,User310,User310@example.com,AI Bootcamp,2024-11-07
+APP6993,User586,User586@example.com,Python Basics,2024-11-20
+APP9015,User824,User824@example.com,AI Bootcamp,2024-11-01
+APP6920,User488,User488@example.com,Python Basics,2024-11-22
+APP3248,User512,User512@example.com,Python Basics,2024-11-04
+APP2875,User873,User873@example.com,AI Bootcamp,2024-11-16
+APP4006,User684,User684@example.com,Data Science 101,2024-11-07
+APP7137,User508,User508@example.com,Data Science 101,2024-11-11
+APP6219,User177,User177@example.com,Data Science 101,2024-11-01
+APP5062,User611,User611@example.com,Python Basics,2024-10-28
+APP5096,User614,User614@example.com,Python Basics,2024-11-19
+APP6975,User588,User588@example.com,Data Science 101,2024-11-13
+APP3429,User134,User134@example.com,Python Basics,2024-10-31
+APP4581,User536,User536@example.com,AI Bootcamp,2024-11-09
+APP5067,User114,User114@example.com,Python Basics,2024-11-12
+APP9146,User706,User706@example.com,Data Science 101,2024-11-09
+APP4041,User926,User926@example.com,AI Bootcamp,2024-11-16
+APP6286,User377,User377@example.com,AI Bootcamp,2024-11-04
+APP2687,User106,User106@example.com,AI Bootcamp,2024-11-24
+APP1065,User424,User424@example.com,Python Basics,2024-11-01
+APP2542,User811,User811@example.com,Python Basics,2024-10-26
+APP7398,User876,User876@example.com,Data Science 101,2024-11-06
+APP4426,User544,User544@example.com,Data Science 101,2024-11-15
+APP4581,User768,User768@example.com,Data Science 101,2024-11-04
+APP5680,User905,User905@example.com,Python Basics,2024-10-31
+APP1831,User977,User977@example.com,AI Bootcamp,2024-10-26
+APP5215,User643,User643@example.com,AI Bootcamp,2024-11-18
+APP7731,User475,User475@example.com,Data Science 101,2024-11-04
+APP9642,User605,User605@example.com,Data Science 101,2024-11-05
+APP4522,User171,User171@example.com,Data Science 101,2024-11-06
+APP5072,User354,User354@example.com,AI Bootcamp,2024-11-07
+APP7421,User888,User888@example.com,Python Basics,2024-11-02
+APP5485,User965,User965@example.com,AI Bootcamp,2024-11-21
+APP9450,User746,User746@example.com,Python Basics,2024-11-15
+APP5158,User385,User385@example.com,AI Bootcamp,2024-10-26
+APP4095,User448,User448@example.com,AI Bootcamp,2024-11-05
+APP8014,User778,User778@example.com,Data Science 101,2024-11-20
+APP8301,User277,User277@example.com,Data Science 101,2024-11-04
+APP1213,User614,User614@example.com,AI Bootcamp,2024-10-31
+APP3194,User768,User768@example.com,Python Basics,2024-11-06
+APP9574,User659,User659@example.com,Data Science 101,2024-11-18
+APP2549,User604,User604@example.com,AI Bootcamp,2024-11-08
+APP1021,User735,User735@example.com,AI Bootcamp,2024-11-22
+APP2828,User676,User676@example.com,Python Basics,2024-10-30
+APP1971,User366,User366@example.com,AI Bootcamp,2024-11-23
+APP2200,User971,User971@example.com,AI Bootcamp,2024-10-30
+APP9373,User523,User523@example.com,Python Basics,2024-10-30
+APP8010,User186,User186@example.com,Python Basics,2024-11-20
+APP8090,User255,User255@example.com,AI Bootcamp,2024-11-12
+APP3034,User445,User445@example.com,Data Science 101,2024-11-05
+APP7502,User794,User794@example.com,Python Basics,2024-10-26
+APP9798,User996,User996@example.com,Data Science 101,2024-11-21
+APP5554,User720,User720@example.com,AI Bootcamp,2024-11-07
+APP6376,User558,User558@example.com,Python Basics,2024-10-27
+APP8106,User696,User696@example.com,Python Basics,2024-11-14
+APP9789,User381,User381@example.com,Python Basics,2024-11-15
+APP1539,User284,User284@example.com,Data Science 101,2024-10-27
+APP1552,User472,User472@example.com,Python Basics,2024-11-16
+APP4716,User436,User436@example.com,Data Science 101,2024-11-12
+APP6755,User463,User463@example.com,Data Science 101,2024-11-18
+APP4281,User423,User423@example.com,Python Basics,2024-11-16
+APP9299,User750,User750@example.com,AI Bootcamp,2024-10-31
+APP7427,User909,User909@example.com,Python Basics,2024-11-02
+APP4878,User220,User220@example.com,Python Basics,2024-10-31
+APP9491,User779,User779@example.com,Data Science 101,2024-11-15
+APP7138,User701,User701@example.com,AI Bootcamp,2024-11-02
+APP7181,User451,User451@example.com,Python Basics,2024-11-15
+APP5681,User478,User478@example.com,Python Basics,2024-11-23
+APP3032,User836,User836@example.com,AI Bootcamp,2024-11-02
+APP4474,User527,User527@example.com,Python Basics,2024-11-15
+APP2118,User145,User145@example.com,Python Basics,2024-11-01
+APP3501,User546,User546@example.com,Python Basics,2024-11-09
+APP6257,User518,User518@example.com,AI Bootcamp,2024-11-21
+APP5048,User924,User924@example.com,Python Basics,2024-11-02
+APP1821,User660,User660@example.com,Data Science 101,2024-11-05
+APP4070,User512,User512@example.com,AI Bootcamp,2024-11-14
+APP9809,User923,User923@example.com,AI Bootcamp,2024-11-20
+APP5377,User809,User809@example.com,AI Bootcamp,2024-11-13
+APP1078,User288,User288@example.com,AI Bootcamp,2024-11-09
+APP2383,User637,User637@example.com,Python Basics,2024-11-09
+APP1433,User580,User580@example.com,Data Science 101,2024-11-22
+APP8043,User640,User640@example.com,Python Basics,2024-11-10
+APP8022,User762,User762@example.com,AI Bootcamp,2024-11-11
+APP8960,User535,User535@example.com,Python Basics,2024-11-23
+APP2213,User893,User893@example.com,Python Basics,2024-11-12
+APP7010,User411,User411@example.com,AI Bootcamp,2024-11-07
+APP1690,User902,User902@example.com,AI Bootcamp,2024-11-21
+APP5405,User898,User898@example.com,AI Bootcamp,2024-11-20
+APP6137,User196,User196@example.com,Python Basics,2024-11-03
+APP1027,User528,User528@example.com,Data Science 101,2024-11-12
+APP8079,User354,User354@example.com,Python Basics,2024-11-13
+APP4219,User919,User919@example.com,Data Science 101,2024-11-05
+APP4618,User121,User121@example.com,Data Science 101,2024-11-21
+APP4826,User165,User165@example.com,Data Science 101,2024-11-18
+APP1564,User995,User995@example.com,AI Bootcamp,2024-11-14
+APP1433,User230,User230@example.com,AI Bootcamp,2024-11-04
+APP6242,User899,User899@example.com,Data Science 101,2024-11-22
+APP6308,User778,User778@example.com,Python Basics,2024-11-22
+APP4811,User250,User250@example.com,AI Bootcamp,2024-11-11
+APP6345,User512,User512@example.com,Python Basics,2024-11-14
+APP2857,User127,User127@example.com,AI Bootcamp,2024-11-03
+APP5533,User478,User478@example.com,AI Bootcamp,2024-11-08
+APP1587,User785,User785@example.com,AI Bootcamp,2024-11-20
+APP9046,User338,User338@example.com,Python Basics,2024-11-14
+APP6712,User878,User878@example.com,Python Basics,2024-10-30
+APP1519,User123,User123@example.com,AI Bootcamp,2024-11-01
+APP9226,User422,User422@example.com,Python Basics,2024-11-20
+APP9810,User563,User563@example.com,AI Bootcamp,2024-11-21
+APP6258,User312,User312@example.com,Python Basics,2024-11-19
+APP1954,User205,User205@example.com,Python Basics,2024-11-16
+APP6692,User133,User133@example.com,Python Basics,2024-11-16
+APP5560,User373,User373@example.com,Data Science 101,2024-10-28
+APP1631,User201,User201@example.com,Data Science 101,2024-11-04
+APP1418,User391,User391@example.com,Python Basics,2024-11-14
+APP7355,User339,User339@example.com,Python Basics,2024-11-12
+APP6501,User638,User638@example.com,Data Science 101,2024-11-20
+APP6342,User590,User590@example.com,Data Science 101,2024-11-15
+APP8384,User414,User414@example.com,Data Science 101,2024-11-08
+APP3272,User159,User159@example.com,Data Science 101,2024-11-06
+APP2484,User675,User675@example.com,AI Bootcamp,2024-10-28
+APP2131,User525,User525@example.com,AI Bootcamp,2024-10-26
+APP4361,User985,User985@example.com,Python Basics,2024-11-11
+APP5392,User720,User720@example.com,Data Science 101,2024-11-03
+APP7933,User943,User943@example.com,Data Science 101,2024-11-03
+APP4408,User135,User135@example.com,AI Bootcamp,2024-11-10
+APP9176,User310,User310@example.com,Data Science 101,2024-11-20
+APP2644,User234,User234@example.com,Python Basics,2024-11-22
+APP8160,User610,User610@example.com,Data Science 101,2024-11-01
+APP8706,User843,User843@example.com,Data Science 101,2024-11-21
+APP5822,User281,User281@example.com,AI Bootcamp,2024-11-03
+APP8960,User316,User316@example.com,Python Basics,2024-11-22
+APP7682,User791,User791@example.com,Python Basics,2024-11-06
+APP4652,User751,User751@example.com,AI Bootcamp,2024-10-27
+APP3144,User867,User867@example.com,AI Bootcamp,2024-11-19
+APP4142,User558,User558@example.com,AI Bootcamp,2024-11-19
+APP6470,User204,User204@example.com,AI Bootcamp,2024-11-21
+APP3968,User718,User718@example.com,Data Science 101,2024-11-23
+APP5146,User771,User771@example.com,Python Basics,2024-11-16
+APP2187,User899,User899@example.com,Data Science 101,2024-11-04
+APP9275,User381,User381@example.com,Python Basics,2024-10-30
+APP9882,User778,User778@example.com,AI Bootcamp,2024-11-03
+APP6699,User688,User688@example.com,Data Science 101,2024-10-31
+APP2621,User835,User835@example.com,AI Bootcamp,2024-11-23
+APP5925,User219,User219@example.com,AI Bootcamp,2024-11-12
+APP4484,User926,User926@example.com,Python Basics,2024-11-18
+APP6940,User583,User583@example.com,Data Science 101,2024-11-02
+APP9753,User166,User166@example.com,Data Science 101,2024-11-10
+APP6209,User845,User845@example.com,Python Basics,2024-11-08
+APP9745,User739,User739@example.com,Python Basics,2024-10-29
+APP5726,User219,User219@example.com,AI Bootcamp,2024-10-31
+APP3183,User567,User567@example.com,Python Basics,2024-11-10
+APP4700,User851,User851@example.com,Python Basics,2024-11-23
+APP1439,User134,User134@example.com,Python Basics,2024-11-07
+APP3135,User879,User879@example.com,Python Basics,2024-11-21
+APP5788,User464,User464@example.com,Python Basics,2024-11-11
+APP1055,User782,User782@example.com,Python Basics,2024-11-24
+APP6696,User518,User518@example.com,AI Bootcamp,2024-10-31
+APP4543,User955,User955@example.com,AI Bootcamp,2024-10-30
+APP9598,User663,User663@example.com,Data Science 101,2024-10-29
+APP4183,User868,User868@example.com,Data Science 101,2024-11-10
+APP4314,User636,User636@example.com,Python Basics,2024-10-31
+APP4704,User343,User343@example.com,Python Basics,2024-11-18
+APP5951,User685,User685@example.com,Python Basics,2024-11-17
+APP6982,User882,User882@example.com,AI Bootcamp,2024-11-19
+APP5196,User530,User530@example.com,Python Basics,2024-10-29
+APP5127,User869,User869@example.com,AI Bootcamp,2024-11-12
+APP6731,User291,User291@example.com,Data Science 101,2024-11-11
+APP5698,User413,User413@example.com,Python Basics,2024-11-23
