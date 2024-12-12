@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Variables
 DATA_HUB="data-hub"
 DB="db"
 OUTPUT_FILE="$DB/consolidated_data.csv"
@@ -17,19 +18,22 @@ for file in "$DATA_HUB"/*.csv; do
   fi
 done
 
+# Check if there are new files to process
 if [ ${#NEW_DATA_FILES[@]} -eq 0 ]; then
   echo "No new data files detected."
   exit 0
 fi
 
+# Merge new data
 echo "New data detected. Processing..."
 if [ ! -f "$OUTPUT_FILE" ]; then
-  head -1 "${NEW_DATA_FILES[0]}" > "$OUTPUT_FILE" 
+  head -1 "${NEW_DATA_FILES[0]}" > "$OUTPUT_FILE"
 fi
 
+# Append new data, excluding headers
 for file in "${NEW_DATA_FILES[@]}"; do
-  tail -n +2 "$file" >> "$OUTPUT_FILE"
-  echo "$file" >> "$PROCESSED_LOG"     
+  tail -n +2 "$file" >> "$OUTPUT_FILE" # Append data (skip header)
+  echo "$file" >> "$PROCESSED_LOG"     # Mark file as processed
 done
 
 echo "Data integration complete. Updated file saved to $OUTPUT_FILE."
